@@ -9,6 +9,7 @@ package in.gnosko.slacktest;
  */
 public class HelloWorld {
     public static void main(String[] args) {
+        // Good old hello world
         System.out.println("Hellow World!");
     }
 }
